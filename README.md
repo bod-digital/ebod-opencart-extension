@@ -1,2 +1,2 @@
-# ebod-opencart-extension
-EBOD Tracking - Opencart 4 Extension
+# EBOD Tracking - Oencart 4 Extension
+
