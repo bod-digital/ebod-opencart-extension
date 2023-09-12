@@ -42,7 +42,7 @@ A: The EBOD Tracking Script is designed to be compatible with a range of OpenCar
 
 ## Support
 
-If you encounter any issues or have questions regarding the EBOD Tracking Script for OpenCart, please don't hesitate to contact our support team. You can reach us at [info@ebod.com](mailto:info@ebod.com) or visit our https://github.com/bod-digital/ebod-opencart-extension/issue for additional resources and assistance.
+If you encounter any issues or have questions regarding the EBOD Tracking Script for OpenCart, please don't hesitate to contact our support team. You can reach us at [info@bod.digital](mailto:info@bod.digital) or visit our https://github.com/bod-digital/ebod-opencart-extension/issues for additional resources and assistance.
 
 ## License
 
